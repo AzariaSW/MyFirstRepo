@@ -1,4 +1,4 @@
-"Brief introduction about Myself"
+["Brief introduction about Myself"]
 Software Engineering, where I have been building a strong foundation in programming, problem-solving, and software development principles. My academic journey has given me the opportunity 
 to explore various technologies and develop practical skills that I am eager to apply in real-world projects.
 
